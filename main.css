@@ -1,0 +1,27 @@
+
+h1 {
+	text-align: center
+}
+h3 {
+	text-align: center;
+}
+
+textarea.editable {
+	display: block;
+	width: 670px;
+	height: 230px;
+	margin: 0 auto;
+	border: 2px solid black;
+}
+
+textarea.editable:hover {
+	background-color: lightblue;
+}
+
+.button {
+	display: block;
+	margin: 25px auto 0 auto;
+	text-align: center;
+
+}
+
